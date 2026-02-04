@@ -28,7 +28,7 @@ const Email: React.FC = () => {
             <input
               type="text"
               name="name"
-              placeholder="Santhiya Mittal"
+              placeholder="Your Name"
               required
             />
           </div>
@@ -38,7 +38,7 @@ const Email: React.FC = () => {
             <input
               type="email"
               name="email"
-              placeholder="santhiyamittal@gmail.com"
+              placeholder="Your email@gmail.com"
               required
             />
           </div>
