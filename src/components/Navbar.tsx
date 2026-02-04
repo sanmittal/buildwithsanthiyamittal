@@ -10,6 +10,16 @@ const Navbar: React.FC = () => {
           <li className="navbar-item"><a href="#projects" className="navbar-link">Projects</a></li>
           <li className="navbar-item"><a href="#skills" className="navbar-link">Skills</a></li>
           <li className="navbar-item"><a href="#contact" className="navbar-link">Contact</a></li>
+          <li className="navbar-item">
+            <a
+              href="/SANTHIYA_MITTAL.pdf"
+              download
+              className="navbar-link"
+            >
+              Resume
+            </a>
+          </li>
+
         </ul>
       </div>
     </nav>
