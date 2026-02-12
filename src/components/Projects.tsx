@@ -36,8 +36,8 @@ const Projects: React.FC = () => {
     },
     {
       title: "Bitconia Lottery System (2021–2022)",
-      description: "Designed and developed a decentralized lottery DApp with smart contract integration. Implemented secure RNG-based winner selection and blockchain-backed prize distribution. Built backend services using Node.js monolithic architecture to handle transaction validation and system integrity.",
-      tech: ["Blockchain", "Node.js", "MongoDB", "Smart Contracts","Monolithic Architecture"],
+      description: "Designed and developed a decentralized lottery DApp with smart contract integration. Implemented secure RNG-based winner selection and blockchain-backed prize distribution. Built backend services using a Node.js monolithic architecture to handle transaction validation, user management, and system integrity. Integrated blockchain event logs with the Python engine to validate eligible participants before draw execution.",
+      tech: ["Blockchain", "Node.js", "MongoDB", "Smart Contracts","Monolithic Architecture", "Python", "AWS (S3)", "GoLang"],
       url: "",
     },
     {
@@ -48,8 +48,8 @@ const Projects: React.FC = () => {
     },
     {
       title: "Doodem (2020)",
-      description: "Developed a content subscription platform supporting pay-per-view (PPV) access and tip-based monetization. Implemented secure APIs, subscription management, and scalable backend services using Node.js monolithic architecture for creator-driven content delivery.",
-      tech: ["Node.js", "MongoDB", "Express","Crypto Payments","Razorpay","Monolithic Architecture"],
+      description: "Developed a content subscription platform supporting pay-per-view (PPV) access,Spring Boot for subscription lifecycle and tip-based monetization. Implemented secure APIs, subscription management, and scalable backend services using a Node.js monolithic architecture to support reliable, creator-driven content delivery and Implemented JWT/OAuth2-based authentication.",
+      tech: ["Node.js", "MongoDB", "Express", "Java 17", "Spring Boot","Crypto Payments","Razorpay","Monolithic Architecture"],
       url: "",
     },
     {

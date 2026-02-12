@@ -2,7 +2,7 @@ import React from "react";
 import "./Skills.css";
 
 const Skills: React.FC = () => {
-  const skills: string[] = ["React", "TypeScript", "Node JS", "JavaScript","GraphQL","Express","NPM","Angular JS","Next.js", "HTML/CSS",  "Nginx","Web3 JS", "Binance Smart Chain",  "Wallet Integration","MongoDB", "MySQL","Solr","Redis","AWS","GitHub", "Bitbucket","VsCode","Stripe","Razorpay"];
+  const skills: string[] = ["React", "TypeScript", "Node JS", "JavaScript","GraphQL","Express", "Java 17", "Spring Boot", "GoLang", "Python","NPM","Angular JS","Next.js", "HTML/CSS",  "Nginx","Web3 JS", "Binance Smart Chain",  "Wallet Integration","MongoDB", "MySQL","Solr","Redis","AWS","GitHub", "Bitbucket", "JUnit", "Mockito", "GitLab","VsCode","Stripe","Razorpay"];
 
   return (
     <section id="skills" className="skills-section">

@@ -38,7 +38,8 @@ const Email: React.FC = () => {
             <input
               type="email"
               name="email"
-              placeholder="Your email@gmail.com"
+              placeholder="Your email
+              @gmail.com"
               required
             />
           </div>
